@@ -46,6 +46,7 @@ public class Main {
     var plusWorkers = 94;
     var hoursPlusWorkers = (sumWorkers + plusWorkers ) * 8;
     System.out.println("Если в компании работает " + (sumWorkers + plusWorkers) + " человек, то всего " + hoursPlusWorkers + " часов работы может быть поделено между сотрудниками");
+
     System.out.println("Наставник, оцени домашнюю работу, пожалуйста");
     }
 }
